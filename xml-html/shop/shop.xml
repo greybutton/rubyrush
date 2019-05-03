@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Shop>
+  <Book
+    name="Приключения Тома Сойера"
+    price="1000"
+    author="Марк Твен"
+    amount="5"
+  />
+  <Book
+    name="Воспоминания Шерлока Холмса"
+    price="1100"
+    author="Артур Конан Дойль"
+    amount="1"
+  />
+  <Film
+    name="Пролетая над грездом кукушки"
+    price="350"
+    director="Милош Форман"
+    year="1975"
+    amount="3"
+  />
+</Shop>
